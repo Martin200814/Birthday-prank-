@@ -1,0 +1,21 @@
+.bild2 {
+    width: 100vw;
+    height: 100vh;
+    background-size: 100vw;
+    background-image: url("images/2308532.jpg");
+    text-align: center;
+}
+
+.Titeltext {
+    font-size: 3vw;
+    color: rgb(19, 95, 19);
+    margin-right: 10.6vw;
+}
+
+.Righttext{
+    position: absolute;
+    margin-left: 30vw;
+    font-size: 1.4vw;
+    color: white;
+    text-decoration: none;
+}
